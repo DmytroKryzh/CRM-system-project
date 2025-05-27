@@ -1,7 +1,7 @@
 # CRM-system-project
 Opis
 
-CRM FINANSE to konsolowa aplikacja napisana w języku Python, przeznaczona do zarządzania klientami oraz produktami finansowymi w małej instytucji finansowej. Program umożliwia przechowywanie i edycję danych klientów, zarządzanie ofertą produktów finansowych, przypisywanie produktów do klientów, generowanie raportów oraz eksport danych do pliku CSV. Wszystkie dane są zapisywane w lokalnej bazie danych SQLite.
+CRM FINANSE to konsolowa aplikacja, przeznaczona do zarządzania klientami oraz produktami finansowymi w małej instytucji finansowej. Program umożliwia przechowywanie i edycję danych klientów, zarządzanie ofertą produktów finansowych, przypisywanie produktów do klientów, generowanie raportów oraz eksport danych do pliku CSV. Wszystkie dane są zapisywane w lokalnej bazie danych SQLite.
 
 Funkcje programu
 
